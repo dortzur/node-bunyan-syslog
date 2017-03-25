@@ -1,5 +1,5 @@
 {
-  "name": "bunyan-syslog",
+  "name": "bunyan-syslog-latest",
   "description": "Syslog Stream for Bunyan",
   "version": "0.3.1",
   "author": "Mark Cavage",
